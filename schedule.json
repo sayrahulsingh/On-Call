@@ -1,0 +1,11 @@
+{
+  "Monday-Friday": {
+    "Morning": "6am - 2pm: Prakash",
+    "Afternoon": "2pm - 9:30pm: Rahul"
+  },
+  "Saturday-Sunday": {
+    "Morning": "6am - 2pm: Prakash",
+    "Afternoon": "2pm - 10pm: Rahul",
+    "Night": "10pm - 6am: Mazhar"
+  }
+}
